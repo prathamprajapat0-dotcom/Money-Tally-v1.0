@@ -5,8 +5,6 @@ Money Tally is a lightweight desktop application built using Python and Tkinter.
 
 Features
 
-Real-time input (no button required)
-
 Multiple entry support
 
 Clean and user-friendly UI
